@@ -1,0 +1,26 @@
+
+.log
+*.*~
+*.tmp
+*.pid
+
+# gradle
+.gradle
+build/
+dist/
+dist-dev/
+
+# idea
+*.iml
+.idea/
+classes/
+.gradletasknamecache
+
+
+# node
+node_modules/
+bower_components/
+.tmp/
+
+out/
+
