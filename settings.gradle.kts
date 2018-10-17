@@ -2,5 +2,5 @@ import org.gradle.internal.impldep.org.junit.experimental.categories.Categories.
 
 rootProject.name = "my-app"
 
-include("application", "tests")
+include("application", "tests", "app-starter")
 
